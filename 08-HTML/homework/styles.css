@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    background-size: 100% 100%;
+    flex-direction: column;
+    align-items: center;
+}
+a{
+    color: black;
+}
+.divClass{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#nombre{
+    color: red;
+}
+#spanId{
+font-size: 18px;
+margin: 50px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid purple;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+#hamburguesa1{
+    width: 400px;
+}
+#hamburguesa2{
+    width: 400px;
+}
