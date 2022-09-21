@@ -1,0 +1,16 @@
+body{
+    background-size: 100% 100%;
+}
+#imagen{
+    width: 100px;
+}
+#color{
+    color: white;
+}
+#posi{
+    display: flex;
+    flex-direction: row;
+}
+#espero{
+    color: white;
+}
